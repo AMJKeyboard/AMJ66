@@ -1,2 +1,2 @@
-# AMJFC660M
-AMJFC660M Keyboard tmk firmware
+# AMJ66
+AMJ66 Keyboard tmk firmware
