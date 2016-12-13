@@ -24,8 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x6076
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Han Chen
-#define PRODUCT         AMJFC660M
-#define DESCRIPTION     t.m.k. keyboard firmware for AMJFC660M
+#define PRODUCT         AMJ66
+#define DESCRIPTION     t.m.k. keyboard firmware for AMJ66
 
 /* key matrix size */
 #define MATRIX_ROWS 5
